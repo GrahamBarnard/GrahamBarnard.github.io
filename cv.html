@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="profile">
+	{% if site.logourl != "" %}<img src="{{ site.logourl }}" class="profileimage" alt="user">{% endif %}
+	<h4>{{ site.title }}</h4>
+	<p>{{ site.description }}</p>
+	<hr>
+</div>
+
+<section class="posts postindex wrapper">
+	<h1><i class="fa fa-briefcase"></i>Work Experience</h1>
+	<article class="post">
+		<header>
+			<h4>Senior Salesforce Developer at Traction on Demand</h4>
+			<span>{{ "2014-08-01 12:00:00" | date: "%B %Y" }} - Now | Vancouver BC, Canada</span><br><br>
+			<div class="excerpt">
+				Worked on various high user Apex development, Visualforce pages, Batch jobs and Unit Tests. Performing Code Reviews and Code Quality Audits
+			</div>
+		</header>
+	</article>
+	<article class="post">
+		<header>
+			<h4>Salesforce Developer at Lightspeed Retail</h4>
+			<span>{{ "2013-03-01 12:00:00" | date: "%B %Y" }} - {{ "2014-08-01 12:00:00" | date: "%B %Y" }} | Vancouver BC, Canada</span><br><br>
+			<div class="excerpt">
+			<ul>
+				<li>Redesigned a customer web portal</li>
+				<li>Created REST Web Services to interact between different APIs including Salesforce, Zendesk, Braintree, User Voice and internal systems</li>
+				<li>Created Salesforce API integration with external systems, Apex development, Visualforce pages</li>
+			</ul>
+		</header>
+	</article>
+</section>

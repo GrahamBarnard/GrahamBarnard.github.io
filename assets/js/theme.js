@@ -684,7 +684,6 @@ https://github.com/imakewebthings/jquery-waypoints/blob/master/licenses.txt
 
 jQuery(document).ready(function(){
 
-
 	// PROFILE WAYPOINTS
 	if($('#cover').hasClass("featured")){
 		$('.posts').waypoint(function(direction) {

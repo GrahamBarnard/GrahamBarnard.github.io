@@ -1,12 +1,10 @@
-
-
 # Site Settings
 title: 						"Graham Barnard"
 email: 						"barnard.graham@gmail.com"
-description: 				"Blog about Developer Self Improvement & Salesforce Development"
+description: 				"Graham Barnard Personal Blog about Salesforce Development and Self Improvement"
 baseurl: 					""
-url: 						"http://grahambarnard.com"
-logourl: 					"/assets/img/bloglogo.jpg"		
+url: 						"http://grahambarnard.com/"
+logourl: 					"/assets/img/authorimage.png"		
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
 
@@ -14,9 +12,9 @@ paginate: 					5
 # Author Settings
 author_name: 				"Graham Barnard"
 author_url: 				"http://grahambarnard.com"
-author_bio: 				"Senior Salesforce Developer"
+author_bio: 				"Senior Salesforce Developer working for a large Canadian Salesforce partner"
 author_email: 				"barnard.graham@gmail.com"
-author_image: 				"/assets/img/authorimage.jpg"
+author_image: 				"/assets/img/authorimage.png"
 
 
 # Social Settings
