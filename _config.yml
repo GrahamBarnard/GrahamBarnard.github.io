@@ -3,6 +3,7 @@ title: 						"Graham Barnard"
 email: 						"barnard.graham@gmail.com"
 description: 				"Graham Barnard Personal Blog about Salesforce Development and Self Improvement"
 baseurl: 					""
+# url: 						"http://localhost:4000"
 url: 						"http://grahambarnard.com/"
 logourl: 					"/assets/img/authorimage.png"		
 fa-logo: 					"fa-bookmark-o"
@@ -27,11 +28,11 @@ linkedin_url:  				"https://ca.linkedin.com/in/barnardgraham"
 # Theme Settings
 theme_disqus_shortname: 	""
 theme_google_comments: 		false
-theme_analytics_id: 		""
+theme_analytics_id: 		"UA-60848038-1"
 theme_analytics_domain: 	""
 theme_reading_time: 		true
 theme_autoload_comments: 	false
-theme_always_show_nav: 		false
+theme_always_show_nav: 		true
 
 
 # SASS Settings
@@ -44,4 +45,3 @@ sass:
 # Build Settings
 markdown: 					kramdown
 permalink: 					pretty
-
