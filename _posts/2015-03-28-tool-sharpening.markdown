@@ -29,6 +29,6 @@ Once I'm satisfied that I've come up with a good solution on a specific task, I 
 
 ## Results
 
-This approach has a lot of high level similarities with [Getting Things Done](http://en.wikipedia.org/wiki/Getting_Things_Done){:target="_blank"}. By writing down the issues as they arise, your mind doesn't get sidetracked by the newly discovered problems and you can focus on your current work.  As long as you are following up on these problems, your brain will trust that it will be handled later on and won't think about it keep thinking about it.
+This approach has a lot of high level similarities with [Getting Things Done](http://en.wikipedia.org/wiki/Getting_Things_Done){:target="_blank"}. By writing down the issues as they arise, your mind doesn't get sidetracked by the newly discovered problems and you can focus on your current work.  As long as you're consistently following up on these problems, your brain won't keep thinking about it.
 
-I also found that one *To Do* item at a time is a good balance between learning new techniques and not distracting my brain with a bunch of new techniques at the same time. I've been using the sharpening tools method for a few months now and I can already tell some great improvements in how I work. They don’t seem like major problems, they add up real fast.
+I also found that limiting one *To Do* item at a time is the best balance for me to learn new techniques and not overload my brain with a bunch of new techniques. I've been using this Sharpening Tools method for a few months now and I can already see some great improvements in my techniques. They didn't seem like major problems at the time but they add up real fast.
