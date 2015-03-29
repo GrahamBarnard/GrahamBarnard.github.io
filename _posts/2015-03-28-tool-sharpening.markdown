@@ -8,7 +8,7 @@ featured: true
 comments: true
 ---
 
-Being a full time Salesforce developer, I spend 95% of my time developing in Sublime. I've recently been inspired by listening to [Sharpening Tools with Ben Orenstein](http://devchat.tv/ruby-rogues/129-rr-sharpening-tools-with-ben-orenstein){:target="_blank"} and want to level up the efficientcy as much as possible.
+Being a full time Salesforce developer, I spend 95% of my time developing in Sublime. I've recently been inspired by listening to [Sharpening Tools with Ben Orenstein](http://devchat.tv/ruby-rogues/129-rr-sharpening-tools-with-ben-orenstein){:target="_blank"} to level up my tool efficientcy.
 
 <!--more-->
 
