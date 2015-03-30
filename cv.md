@@ -1,5 +1,8 @@
 ---
 layout: default
+title: CV
+permalink: /cv/
+comments: false
 ---
 
 <div class="profile">
@@ -70,16 +73,29 @@ layout: default
 	</article>
 
 	<article class="cv">
+		<h1><i class="fa fa-certificate"></i>Education & Certification</h1>
+		<h4>Salesforce.com Certified Force.com Developer</h4>
+		<span>February 2014</span><br>
+
+		<h4>Bachelor of Computer Science Specializing In Web Services</h4>
+		<span>September 2008 to December 2010 | University of Concordia</span><br>
+
+		<h4>DCS, Computer Science</h4>
+		<span>September 2005 to May 2008 | CEGEP John Abbott College</span><br>
+
+	</article>
+	
+	<article class="cv">
 		<h1><i class="fa fa-cogs"></i>Skills</h1>
 		<div class="skill">
-			<div class="name">Apex Development (100%)</div>
+			<div class="name">Apex (100%)</div>
 			<div class="progress">
 				<div class="bar" style="width: 100%"></div>
 			</div>
 		</div>
 
 		<div class="skill">
-			<div class="name">Visualforce Page (90%)</div>
+			<div class="name">Visualforce Pages (90%)</div>
 			<div class="progress">
 				<div class="bar" style="width: 90%"></div>
 			</div>
@@ -138,10 +154,5 @@ layout: default
 			</div>
 		</div>
 
-	</article>
-
-	<article class="cv">
-		<h1><i class="fa fa-certificate"></i>Certification</h1>
-		<h4>Salesforce.com Certified Force.com Developer (WI14)</h4>
 	</article>
 </section>

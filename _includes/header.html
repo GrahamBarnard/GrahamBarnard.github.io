@@ -6,7 +6,6 @@
     <a href="#" onclick="return false;"><i class="fa fa-navicon fa-lg"></i></a>
     <ul>
         <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
-        <li><a href="{{ "/cv" | prepend: site.baseurl }}">CV</a></li>
         {% for page in site.pages %}
             {% if page.title %}<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>{% endif %}
         {% endfor %}
