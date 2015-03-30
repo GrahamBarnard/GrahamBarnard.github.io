@@ -3,6 +3,10 @@ layout: default
 title: CV
 permalink: /cv/
 comments: false
+sitemap:
+    priority: 1
+    changefreq: 'monthly'
+    lastmod: 2015-03-29T12:49:30-05:00
 ---
 
 <div class="profile">

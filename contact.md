@@ -3,6 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 comments: false
+sitemap:
+    priority: 0.8
+    changefreq: 'monthly'
+    lastmod: 2015-03-29T12:49:30-05:00
 ---
 
 If you would like to contact me, please send an email to barnard.graham@gmail.com
