@@ -112,10 +112,6 @@ sitemap:
 			</div>
 		</div>
 
-		<div class="progress">
-			<div class="bar" style="width: 90%;"></div>
-		</div>
-
 		<div class="skill">
 			<div class="name">Python (50%)</div>
 			<div class="progress">
@@ -133,7 +129,7 @@ sitemap:
 		<div class="skill">
 			<div class="name">Git (90%)</div>
 			<div class="progress">
-				<div class="bar" style="width: 80%"></div>
+				<div class="bar" style="width: 90%"></div>
 			</div>
 		</div>
 
@@ -147,7 +143,7 @@ sitemap:
 		<div class="skill">
 			<div class="name">Java (50%)</div>
 			<div class="progress">
-				<div class="bar" style="width: 75%"></div>
+				<div class="bar" style="width: 50%"></div>
 			</div>
 		</div>
 
