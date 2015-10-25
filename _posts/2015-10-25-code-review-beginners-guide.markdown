@@ -29,7 +29,7 @@ Every code review session starts with a statement similar to these:
 * This code was written in a hurry to meet deadlines
 * I haven’t had time to review this code
 
-While that might be true, I think it’s due to the intimidation factor of the process. It’s intimidating to have someone look over your work. I feel the same way every time I publish one of these “unexceptional" blog posts.
+At times that might be true, but in most cases it’s due to the intimidation factor of the process. It’s intimidating to have someone look over your work. I feel the same way every time I publish one of these “unexceptional" blog posts. This is a common problem for software developers called [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome){:target="_blank"}
 
 It’s important to remember that the code that you’ll be looking at was laboured over for hours on end and the developer put a lot of mental effort into making sure that it works properly.  We all make mistakes and we all get super fancy when we don’t need to be, but it’s important that the developer knows that it’s fine to make mistakes.  Don’t stifle the growth of your developer by concentrating on trivial errors and making him feel bad. You want repeat customers.
 
@@ -53,15 +53,15 @@ It takes a lot of concentration to look at someone’s code.  I start to feel ti
 
 By using code review checklist, I ensure that I don't miss any areas that I deem important.
 
-I started with this checklist and customized it to our coding Standard and added Salesforce specifi items. https://www.liberty.edu/media/1414/%5B6401%5Dcode_review_checklist.pdf
+I started with [this checklist](https://www.liberty.edu/media/1414/%5B6401%5Dcode_review_checklist.pdf){:target="_blank"} and customized it to our coding Standard and added Salesforce specifi items.
 
 Sample Salesforce Checklist items:
 
 * Are all Trigger code bulkified?
 * Are all Trigger code on object centralized to avoid redundant SOQL queries?
-* Are all SOQL queries outside of FOR loops?
-* Are all DML operations outside of FOR loops?
-* Are SOQL queries streamlined and FOR loops optimized?
+* Are all SOQL queries outside of for loops?
+* Are all DML operations outside of for loops?
+* Are SOQL queries streamlined and for loops optimized?
 
 ## Don’t forget to code review tests
 
