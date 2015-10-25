@@ -5,7 +5,7 @@ date:   2013-02-15 12:00:00
 categories: Development
 banner_image: "/media/red_harrow.jpg"
 featured: true
-comments: false
+comments: true
 ---
 
 I've been reading a lot in the last couple of weeks, books about different aspect of development including cleanliness, organization and professionalism. I read SMACSS which will probably change how I write every line of CSS. I read Clean Coder which will change so much about how I write and interact with my colleagues, managers and everyone else on my future teams. 
