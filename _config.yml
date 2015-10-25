@@ -1,7 +1,7 @@
 # Site Settings
 title: 						"Graham Barnard"
 email: 						"barnard.graham@gmail.com"
-description: 				"Graham Barnard's thougths about Salesforce development, self improvement and everything else"
+description: 				"Thougths about Salesforce, Apex, Developer Processes and Everything Else"
 baseurl: 					""
 # url: 						"http://localhost:4000"
 url: 						"http://grahambarnard.com/"
@@ -26,12 +26,12 @@ linkedin_url:  				"https://ca.linkedin.com/in/barnardgraham"
 
 
 # Theme Settings
-theme_disqus_shortname: 	""
+theme_disqus_shortname: 	"grahambarnardsf"
 theme_google_comments: 		false
 theme_analytics_id: 		"UA-60848038-1"
 theme_analytics_domain: 	""
 theme_reading_time: 		true
-theme_autoload_comments: 	false
+theme_autoload_comments: 	true
 theme_always_show_nav: 		true
 
 
