@@ -53,7 +53,7 @@ It takes a lot of concentration to look at someone’s code.  I start to feel ti
 
 By using code review checklist, I ensure that I don't miss any areas that I deem important.
 
-I started with [this checklist](https://www.liberty.edu/media/1414/%5B6401%5Dcode_review_checklist.pdf){:target="_blank"} and customized it to our coding Standard and added Salesforce specifi items.
+I started with [this checklist](https://www.liberty.edu/media/1414/%5B6401%5Dcode_review_checklist.pdf){:target="_blank"} and customized it to our coding Standard and added Salesforce specific items.
 
 Sample Salesforce Checklist items:
 
@@ -73,4 +73,4 @@ Code review is a tool to help developers accelerate their learning process. It i
 
 ## Follow up
 
-When the session is complete the developer should leave with some refactoring to make. Follow up and review their changes, if an additional session is needed, book one. Followups will allow to catch misinterpretations, and it’s always nice to see their progress.
+When the session is complete the developer should leave with some refactoring to make. Follow up and review their changes, if an additional session is needed, book one. Followups will allow you to to catch misinterpretations, and it’s always nice to see their progress.
