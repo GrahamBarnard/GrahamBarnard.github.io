@@ -9,8 +9,6 @@ sitemap:
     lastmod: 2015-03-29T12:49:30-05:00
 ---
 
-If you would like to contact me, please send an email to barnard.graham@gmail.com
-
 <form method="POST" action="//formspree.io/barnard.graham@gmail.com">
     <p><input style="width:96%;" type="text" name="name" class="contact-name" placeholder="Name" ></p>
     <p><input style="width:96%;" type="email" name="_replyto" class="contact-email" placeholder="Email Address"></p>
