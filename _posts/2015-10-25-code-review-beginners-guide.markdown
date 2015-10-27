@@ -73,4 +73,4 @@ Code review is a tool to help developers accelerate their learning process. It i
 
 ## Follow up
 
-When the session is complete the developer should have some refactoring to do. Follow up and review their changes, if an additional session is needed, book one. Followups will allow you to to catch misinterpretations, and it’s always nice to see their progress.
+When the session is complete the developer should have some refactoring to do. Follow up and review their changes, if an additional session is needed, book one. Followups will allow you to to catch misinterpretations, and it’s always nice to see their progress. A follow up session will also focus on all the positive changes the developer has made to the code.
