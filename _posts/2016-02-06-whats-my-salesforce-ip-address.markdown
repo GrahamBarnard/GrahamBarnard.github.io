@@ -34,4 +34,4 @@ String responseBody = res.getBody();
 System.debug('Current Ip Address: ' + responseBody);
  </pre>
 
-This code might help troubleshooting an issue , but you cannot guarantee that your IP address will always come from this specific IP as Salesforce might randomly change it.
+This code might help troubleshoot an issue, but you cannot guarantee that this will always be your IP address as Salesforce might randomly change it.
