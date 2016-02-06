@@ -8,7 +8,7 @@ featured: true
 comments: true
 ---
 
-IP whitelisting is an effective method to help secure connections to external environments. Salesforce [provides a range of IPs addresses](https://help.salesforce.com/apex/HTViewSolution?id=000003652){:target="_blank"} that can be whitelisted by external system by region.  When connecting to an external system, Salesforce recommends whitelisting the entire set of IP ranges.
+IP whitelisting is an effective method to help secure connections to external environments. Salesforce [provides a range of IPs addresses](https://help.salesforce.com/apex/HTViewSolution?id=000003652){:target="_blank"} that can be whitelisted by external systems per region.  Salesforce recommends whitelisting the entire set of IP ranges.
 
 <!--more-->
 
