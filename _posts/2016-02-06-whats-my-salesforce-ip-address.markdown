@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What's My Salesforce IP Address?"
+title:  "Salesforce sObjects Ids"
 date:   2016-02-06 12:00:00
 categories: Development
 banner_image: "/media/desk.jpg"
@@ -8,7 +8,7 @@ featured: true
 comments: true
 ---
 
-IP whitelisting is an effective method to ensure a secure connection to external environments. Salesforce helps by [providing a range of IPs addresses](https://help.salesforce.com/apex/HTViewSolution?id=000003652){:target="_blank"} that can be whitelisted by external system on your region.  When connecting to an external system, Salesforce recommends whitelisting the entire set of IP ranges.
+IP whitelisting is an effective method to help secure connections to external environments. Salesforce [provides a range of IPs addresses](https://help.salesforce.com/apex/HTViewSolution?id=000003652){:target="_blank"} that can be whitelisted by external system by region.  When connecting to an external system, Salesforce recommends whitelisting the entire set of IP ranges.
 
 <!--more-->
 
