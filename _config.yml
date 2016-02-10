@@ -45,3 +45,6 @@ sass:
 # Build Settings
 markdown: 					kramdown
 permalink: 					pretty
+
+# Gems
+gems: [jekyll-paginate]
