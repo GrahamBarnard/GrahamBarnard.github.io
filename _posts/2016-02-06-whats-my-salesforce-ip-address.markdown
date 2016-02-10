@@ -18,7 +18,7 @@ NOTE: This will only work when you add [https://api.ipify.org](https://api.ipify
 
 ## The Code
 
- <pre>
+ <pre><code class="java">
 String url = 'https://api.ipify.org';
 
 // Pass in the endpoint to be used using the string url
@@ -32,6 +32,6 @@ HttpResponse res = h.send(req);
 String responseBody = res.getBody();
 
 System.debug('Current Ip Address: ' + responseBody);
- </pre>
+</code></pre>
 
 This code might help troubleshoot an issue, but you cannot guarantee that this will always be your IP address as Salesforce might randomly change it.
