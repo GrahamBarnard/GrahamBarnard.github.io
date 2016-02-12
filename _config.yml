@@ -4,7 +4,7 @@ email: 						"barnard.graham@gmail.com"
 description: 				"Thougths about Salesforce, Apex, Developer Processes and Everything Else"
 baseurl: 					""
 # url: 						"http://localhost:4000"
-url: 						"http://grahambarnard.com/"
+url: 						"http://grahambarnard.com"
 logourl: 					"/assets/img/authorimage.png"		
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
