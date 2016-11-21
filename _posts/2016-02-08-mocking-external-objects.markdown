@@ -149,6 +149,36 @@ private class ExternalRequestTest {
 }
 </code></pre>
 
-Now throughout your tests, a couple of lines will allow you to mock your external object.
+
+## Updated: Version #4
+
+I've had a lot of feedback about code coverage for the model file. This version will improve code coverage, but i prefer the other versions stylistically.
+
+<pre><code class="java">
+/**
+ *  @description Handles all the External Request queries
+ *  @author      Graham Barnard
+ *  @date        2016-11-11
+ */
+public with sharing class ExternalRequestModel {
+
+	@TestVisible private static List&lt;Request__x&gt; mockedRequests = new List&lt;Request__x&gt;();
+
+	/**
+	 *  @description Find a single request by id
+	 *  @author 	 Graham Barnard
+	 *  @date        2016-02-08
+	 */
+	public static Request__x findById(Id requestId) {
+		List&lt;Request__x&gt; requests = (!mockedRequests.isEmpty()) ? mockedRequests : [
+		    SELECT  Id, Description__c, Type__c
+		    FROM Request__x
+		    WHERE Id =: requestId
+		];
+
+		return (requests.size() > 0) ? requests[0] : null;
+	}
+}
+</code></pre>
 
 I'd love to hear feedback
